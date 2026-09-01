@@ -1,0 +1,7 @@
+{
+  "repository_name": "Dockers-images",
+  "brand": "Unicorn Who Dev",
+  "docker_hub_namespace": "charlibillabert",
+  "featured_image": "charlibillabert/mmg-pose-sheet-pipeline:sm120-20260812-v6",
+  "purpose": "Public portfolio documentation for AI automation, GPU pipelines and containerized inference"
+}
